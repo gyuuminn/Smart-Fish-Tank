@@ -5,12 +5,13 @@
 
 ### FirstArduino.ino
 - Additional RTC Module settings, Sensor settings, date, and LCD Display settings.
-
+- 4 Display States for lCD Display
+  
 ---
 
 ### SecondArduino.ino
 - Servo Settings.
-- Made servo to Rotate at typical time.
+- Made servo to Rotate at specific time.
 - Connected Arduinos with Software Serial
 
 ---
